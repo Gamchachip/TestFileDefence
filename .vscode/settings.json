@@ -58,5 +58,6 @@
     },
     "dotnet.defaultSolution": "TestFileDefence.sln",
     "files.autoGuessEncoding": true,
-    "files.encoding": "utf8"
+    "files.encoding": "utf8",
+    "FSharp.suggestGitignore": false
 }

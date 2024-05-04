@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-//½ºÅ³ Àü·«ÆĞÅÏ
+//ìŠ¤í‚¬ ì „ëµíŒ¨í„´
 public interface Skill
 {
     void Init();
