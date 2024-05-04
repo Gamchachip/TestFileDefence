@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-//ÆÄÀÏ, Æú´õ »ı¼º
+//íŒŒì¼, í´ë” ìƒì„±
 
 public class SpawnFile : MonoBehaviour
 {
@@ -13,8 +13,8 @@ public class SpawnFile : MonoBehaviour
 
     public void GetFileForder()
     {
-        Debug.Log("GetFileForder ÀÛµ¿µÇ¾ú½À´Ï´Ù");
-        GameManager.instance.pool.FileForderGet(fileData, transform.parent.position); //¾ŞÄ¿À§Ä¡·Î ¼ÒÈ¯µÊ
+        Debug.Log("GetFileForder ì‘ë™ë˜ì—ˆìŠµë‹ˆë‹¤");
+        GameManager.instance.pool.FileForderGet(fileData, transform.parent.position); //ì•µì»¤ìœ„ì¹˜ë¡œ ì†Œí™˜ë¨
     }
 
     
