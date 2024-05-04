@@ -56,7 +56,7 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "TowerDefenceTEst.sln",
+    "dotnet.defaultSolution": "TestFileDefence.sln",
     "files.autoGuessEncoding": false,
     "files.encoding": "euckr"
 }
