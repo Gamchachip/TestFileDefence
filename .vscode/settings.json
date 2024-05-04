@@ -59,4 +59,5 @@
     "dotnet.defaultSolution": "TestFileDefence.sln",
     "files.autoGuessEncoding": false,
     "files.encoding": "euckr"
+    "files.encoding": "utf8"
 }
