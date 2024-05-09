@@ -15,6 +15,7 @@ GameObject:
   - component: {fileID: 3898946302005635171}
   - component: {fileID: 4017422304870069211}
   - component: {fileID: 8847758339564044063}
+  - component: {fileID: -7086510295099317195}
   m_Layer: 8
   m_Name: TestMonster1
   m_TagString: Monster
@@ -165,7 +166,6 @@ MonoBehaviour:
   targetLayer:
     serializedVersion: 2
     m_Bits: 0
-  nearestTarget: {fileID: 0}
 --- !u!114 &8847758339564044063
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -181,7 +181,18 @@ MonoBehaviour:
   hp: 0
   moveSpeed: 100
   damage: 0
-  weapon: {fileID: 0}
   img: {fileID: 0}
   rigid: {fileID: 0}
   target: {fileID: 0}
+--- !u!114 &-7086510295099317195
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1346010653583937393}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a443f738c988faa4ab864557d8243206, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
